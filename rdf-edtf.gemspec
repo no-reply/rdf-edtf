@@ -7,8 +7,8 @@ Gem::Specification.new do |s|
   s.version     = RDF::EDTF::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['Tom Johnson']
-  s.homepage    = 'https://github.com/dpla/rdf-edtf'
-  s.email       = 'tom@dp.la'
+  s.homepage    = 'https://github.com/no-reply/rdf-edtf'
+  s.email       = 'tom@curationexperts.com'
   s.summary     = %q{An `RDF::Literal` implementation around Extended Date Time Format.}
   s.description = %q{Supports serializing and parsing EDTF (all levels) as typed literals in RDF.}
   s.license     = 'UNLICENSE'
